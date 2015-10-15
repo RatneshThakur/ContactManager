@@ -1,0 +1,44 @@
+/*
+Bootstrap 3.1 overrides from http://bootply.com
+
+This CSS code should follow the 'bootstrap.css'
+in your HTML file.
+
+license: MIT
+author: bootply.com
+*/
+
+body {
+  padding-top: 70px;
+}
+.child_div_1
+{
+  display: inline-block;
+}
+.child_div_2
+{
+  align-self: flex-end;
+  width: 40%;
+  display: inline-block;
+}
+.container.picuploader
+{
+  width:30%;
+}
+
+table.lamp {
+  width:100%;
+  border:1px solid #d4d4d4;
+}
+table.lamp th, td {
+  padding:10px;
+}
+table.lamp th {
+  width:40px;
+}
+
+img.imgClass
+{
+  width: 150px;
+  height: 150px;
+}
